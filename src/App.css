@@ -1,0 +1,22 @@
+.home{
+
+    background-image: url("./Public/bg-website.jpg");
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home a{
+    text-decoration: none;
+    Color : #11324D;
+    font-family: 'Dancing Script', cursive;
+}
+.home h3{
+    color: #6B7AA1;
+    font-family: 'Bebas Neue', cursive;
+    text-shadow: 1px 1px 3px #000000;
+}
